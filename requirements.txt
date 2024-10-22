@@ -1,3 +1,4 @@
 discord
 requests
-dotenv
+python
+etre a minimum intelligent
