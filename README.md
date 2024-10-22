@@ -13,7 +13,7 @@ Clonez le dépôt :
 
 1)
 git clone (https://github.com/SansMorale/SnusBase_Bot-Discord)
-cd BreadcrumbsSnusBase_Bot-Discord
+cd SnusBase_Bot-Discord
 
 2)  Installez les dépendances requises :
 
